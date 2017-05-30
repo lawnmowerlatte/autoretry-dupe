@@ -1,0 +1,6 @@
+[behave]
+junit=yes
+format=json.pretty
+       pretty
+outfiles=reports/report_behave.json
+         reports/pretty.txt
